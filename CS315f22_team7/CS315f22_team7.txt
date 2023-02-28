@@ -1,0 +1,111 @@
+﻿EXAMPLE CODES
+Product 1
+$ This is a scientific ChainChain program that calculates temperature humidity indices (THI) for the correlation with milk production losses due to heat stress. $
+$ For the information on the research that our code supports: 
+https://www.sciencedirect.com/science/article/pii/S0022030207716818#:~:text=A%20temperature%2Dhumidity%20index%20(THI,heat%2Dstress%2Drelated%20losses.
+$
+int temperatureHumidityIndicesFindinator(){
+double hum= readHumidity();
+double temp = readTemperature();
+double theUltimateSolutionForTheResearch;
+theUltimateSolutionForTheResearch = temp -  .55(1 - hum)(T - 58);
+return theUltimateSolutionForTheResearch;
+}
+
+
+
+
+Product 2
+# This is a much more social ChainChain program of great importance to society. It is a club evaluator that measures the light, sound and air quality in the clubs. Moreover, we inspect most of the clubs thanks to its unique algorithm if people should not go to these clubs.#
+
+
+#This ChainChain code is one of most popular product that we sell these sites:
+https://www.clubadvisors.com/
+https://www.privateclubadvisor.com/
+https://clubs.com/
+and more..  #
+
+
+bool isItAGoodClubToHangOut(int bass){
+        bool justATeenagerToBehaveExperimentally = false;
+        bool haveIDaddyIssues = false;
+        bool doIHateMySelf = false;
+
+
+        int isDisturbingBassMakesMeHigh = readSoundQuality(soundQuality);
+        int isLightEnouglyBlindingMe = readLight();
+        int isTheEnviromentChokeMeBadly = readAirQuality();
+
+
+        if(  isDisturbingBassMakesMeHigh < 10.256){
+                justATeenagerToBehaveExperimentally = true;
+        }
+        if( isLightEnouglyBlindingMe < 537.44){
+                bool haveIDaddyIssues = true;
+        }
+        
+if(isTheEnviromentChokeMeBadly <= 43.24673){
+                doIHateMySelf = true;                
+        }
+        
+        if(justATeenagerToBehaveExperimentally || haveIDaddyIssues ){
+                if(isTheEnviromentChokeMeBadly && true){
+                        return true;
+                }
+        }else{
+                #it is wasted club if it does not triggered any of that (variables) emotions#
+                return false;
+}
+}
+
+
+Product 3
+disconnectInternet();
+string soundOfSilence(long soundOfALotOfThings, char soundOfLittleThings){
+        connectInternet();
+#unfortunately..#
+return false;
+}
+
+
+Product3 (Syntax Error)
+disconnectInternet();
+string soundOfSilence(long soundOfALotOfThings, char soundOfLittleThings){
+        connoctInternet();
+#unfortunately..#
+return false;
+}
+
+
+Product 4
+#This is a complicated lighting ChainChain code. It exist to just confuse people.
+void isItConfusingIThinkItIs(){
+        int j = 1;
+        for(int i = 0; i <= 567 ; i = i + 16 ) {
+                while(j == 289){
+j = j * 03;
+j = j *1.7;
+}
+        }
+        sensor_temp ;
+        sensor_humid;
+        sensor_pressure;
+        sensor_air_qual;
+        sensor _light;
+        sensor_sound_qual;
+}
+
+
+Product 5 
+#These are our most selling products of our company. It is the masterpiece of the ChainChain. In this sophisticated program, we 
+Bool connect = true;
+Bool hasPackage = true; 
+Bool chainBro;
+while(chainBro) {
+                if(hasPackage && connect ) {
+                        chainBro = true;
+                }
+                else {
+                        chainBro = false;
+                }
+}
